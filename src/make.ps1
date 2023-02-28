@@ -1,0 +1,1 @@
+java -classpath C:\Users\sziku\OneDrive\Documents\CodeCool\projects\hello-world-oop-java-Sziku\out\production\hello-world-oop-java-Sziku com.codecool.helloworld.app.App Sziku
